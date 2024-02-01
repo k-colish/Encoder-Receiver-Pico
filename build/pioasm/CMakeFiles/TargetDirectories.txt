@@ -1,0 +1,3 @@
+/home/kaiden/pico/Pico-SPI/build/pioasm/CMakeFiles/pioasm.dir
+/home/kaiden/pico/Pico-SPI/build/pioasm/CMakeFiles/edit_cache.dir
+/home/kaiden/pico/Pico-SPI/build/pioasm/CMakeFiles/rebuild_cache.dir
